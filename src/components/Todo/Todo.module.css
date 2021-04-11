@@ -1,0 +1,31 @@
+.container {
+    width: 1000px;
+    margin: 0 auto;
+    border: solid #050501 1px;
+    border-radius: 5px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.button {
+    width: 250px;
+    padding: 15px;
+    margin: 10px 0;
+    font-size: 20px;
+    border-radius: 5px;
+    color: #ffffff;
+    font-family: cursive;
+    background-color: #ffc107;
+}
+
+.input {
+    width: 350px;
+    height: 25px;
+}
+
+.modal_button {
+    margin-top: 10px;
+    width: 150px;
+    height: 25px;
+    background-color: #ced100;
+}

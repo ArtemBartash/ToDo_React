@@ -1,0 +1,16 @@
+.row {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    background-color: #1E90FF;
+    padding: 10px;
+}
+
+.column {
+    width: 250px;
+}
+
+.text {
+    font-size: 18px;
+    font-family: cursive;
+}
